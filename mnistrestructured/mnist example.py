@@ -2,7 +2,7 @@ import tensorflow
 import matplotlib.pyplot as plt
 import numpy as np
 from tensorflow.keras.layers import Conv2D, Input, Dense, MaxPool2D, BatchNormalization, Flatten, GlobalAvgPool2D
-from mnist.mnistrestructured.deeplearningmodels import MyCustomModel, functional_model
+# from mnist.mnistrestructured.deeplearningmodels import MyCustomModel, functional_model
 from myutils import displaysampleimages
 #from tensorflow.python.layers import activations
 # Approaches to use in building neural networks
